@@ -67464,8 +67464,8 @@ var SSalim = function SSalim(_ref) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\gcoay\Desktop\2020-B\TI2\Repo\TI-Nutricion\NutricionFinal\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\gcoay\Desktop\2020-B\TI2\Repo\TI-Nutricion\NutricionFinal\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /home/fabs/Escritorio/TI_3/Trabajo_Interdisciplinar_2/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /home/fabs/Escritorio/TI_3/Trabajo_Interdisciplinar_2/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
