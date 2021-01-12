@@ -1,12 +1,12 @@
 # Trabajo_Interdisciplinar_2
 
-##Ejecutar:
+#Ejecutar:
 1. composer install
 2. npm install or yarn
 3. cp .env.example .env
 4. php artisan key:generate
 
-###To run-...
+#To run-...
 
 1. sudo /etc/init.d/apache2 stop
 2. sudo /etc/init.d/mysql stop
