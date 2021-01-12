@@ -1,16 +1,14 @@
 # Trabajo_Interdisciplinar_2
 
-Ejecutar:
-composer install
-npm install
-or 
-yarn
-cp .env.example .env
-php artisan key:generate
+##Ejecutar:
+1. composer install
+2. npm install or yarn
+3. cp .env.example .env
+4. php artisan key:generate
 
-To run-...
+###To run-...
 
-sudo /etc/init.d/apache2 stop
-sudo /etc/init.d/mysql stop
-sudo /opt/lampp/lampp start
-npm run watch
+1. sudo /etc/init.d/apache2 stop
+2. sudo /etc/init.d/mysql stop
+3. sudo /opt/lampp/lampp start
+4. npm run watch
